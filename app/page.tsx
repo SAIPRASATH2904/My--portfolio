@@ -45,7 +45,7 @@ export default function Home() {
           data-aos-delay="1000"
           className="absolute hidden md:block bottom-8 min-[1920px]:bottom-32 right-[30%] text-8xl font-semibold mix-blend-exclusion"
         >
-          Front end <br /> Developer
+         Web <br /> Developer
         </h1>
 
         <h1 className="md:hidden h-screen flex justify-center items-center text-6xl text-center font-semibold mix-blend-exclusion">

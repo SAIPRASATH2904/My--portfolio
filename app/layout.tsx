@@ -6,10 +6,10 @@ import Contact from './components/contact'
 import { ReactLenis } from './utils/lenis'
 
 export const metadata: Metadata = {
-  title: 'Fikri Albaihaqi',
+  title: 'Sai Prasath',
   description:
-    'A 22 years old front end web developer located in Bandung, Indonesia.I like to craft solid and beautiful website with great user experience.',
-  icons: {
+    'Hello! I’m Sai Prasath, a web developer  based in Bangalore, Karnataka. I specialize in crafting  visually stunning websites with seamless user experiences',
+  icons:{
     icon: '/sai prasath.jpg',
   },
 }
