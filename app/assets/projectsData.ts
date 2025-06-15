@@ -63,14 +63,14 @@ const projects = [
   //   image: "/personal-website-v2.png",
   //   link: "https://fikrialbaihaqi.netlify.app/"
   // },
-  // // {
-  //   id: 9,
-  //   name: "Whats the weather at?",
-  //   year: "2022",
-  //   techStack: ["Vue.js", "Tailwind CSS", "OpenWeatherMap API"],
-  //   image: "/weather-app.png",
-  //   link: "https://whatstheweatherat.netlify.app/"
-  // },
+  {
+    id: 9,
+    name: "Whats the weather at?",
+    year: "2022",
+    techStack: ["Vue.js", "Tailwind CSS", "OpenWeatherMap API"],
+    image: "/weather-app.png",
+    link: "https://whatstheweatherat.netlify.app/"
+  },
   {
     id: 10,
     name: "Newsthetic",
